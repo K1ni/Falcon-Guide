@@ -1,6 +1,6 @@
 # Trigger strategy
 
-Now that you're able to create a basic task, we will go deeper into all the option you have at your disposal in Falcon to personnalise your minting experience.\
+Now that you're able to create a basic task, we will go deeper into all the options that you have at your disposal in Falcon to personalise your minting experience.\
 
 
 ![](<../.gitbook/assets/image (1) (1).png>)

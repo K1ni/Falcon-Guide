@@ -16,7 +16,7 @@
   * [Trigger strategy](mint/mint-3.md)
   * [Flipstate](mint/mint-4.md)
   * [Timestamp](mint/mint-5.md)
-* [⛽ Gas usage](gas-usage.md)
 * [NFT Manager](nft-manager/README.md)
   * [Contract approval](nft-manager/contract-approval.md)
   * [Selling your NFT](nft-manager/selling-your-nft.md)
+* [⛽ Gas usage](gas-usage.md)

@@ -8,6 +8,6 @@ Then select which addresses you would like to approve the contract for and on wh
 
 
 
-Please note that to check if you selected the right contract, you can select the wallet(s) that contain the nft, enter the contract address and click on the refresh button. If done properly, your NFT will show like below.
+Please note that to check if you selected the right contract, you can select the wallet(s) that contains the nft, enter the contract address and click on the refresh button. If done properly, your NFT will show like below.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
