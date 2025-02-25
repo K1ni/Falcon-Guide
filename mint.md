@@ -29,10 +29,14 @@ Falcon added milliseconds to the timestamp for more acurate timing, because of t
 
 For using timestamp you will have to turn off simulate option and manually put the gas limit of the transaction. To ensure that you have correctly configured the tasks you can check the countdown for the transaction to send once you start it.
 
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 As Trigger: This minting function allows you to only start 1 minting task instead of all of them, once the minting task you started is sent all the rest of the task will be sent. This is very usefull to avoid rate limit of the RPC.
 
 For this minting function you have to leave Simulate and As Trigger ON while creating the minting task.
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 VIDEO OF HOW IT WORKS
