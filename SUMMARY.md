@@ -2,11 +2,6 @@
 
 * [👋 Introduction](README.md)
 * [✅ Getting started](getting-started.md)
-* [Falcon Setup Guide:](falcon-setup-guide/README.md)
-  * [Wallet](falcon-setup-guide/wallet.md)
-  * [Settings And RPC Manager](falcon-setup-guide/settings-and-rpc-manager.md)
-  * [Mint](falcon-setup-guide/mint.md)
-  * [⛽ Gas usage](falcon-setup-guide/gas-usage.md)
 
 ## Falcon V2
 
@@ -15,8 +10,19 @@
 
 ***
 
-* [Falcon Setup Guide:](falcon-setup-guide-1.md)
+* [Falcon Setup Guide:](falcon-setup-guide.md)
 * [Wallet](wallet.md)
 * [Settings And RPC Manager](settings-and-rpc-manager.md)
-* [Mint](mint.md)
-* [⛽ Gas usage](gas-usage.md)
+* [Task](task.md)
+
+## Task Configs
+
+* [Gas Limit](task-configs/gas-limit.md)
+* [Max Fee & Priority Fee](task-configs/max-fee-and-priority-fee.md)
+* [Simulate Internal](task-configs/simulate-internal.md)
+* [Nonce](task-configs/nonce.md)
+* [Hex](task-configs/hex.md)
+* [Timestamp to Start](task-configs/timestamp-to-start.md)
+* [Value](task-configs/value.md)
+* [Simulate](task-configs/simulate.md)
+* [Tigger](task-configs/tigger.md)
