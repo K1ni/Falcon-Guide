@@ -2,14 +2,6 @@
 
 * [👋 Introduction](README.md)
 * [✅ Getting started](getting-started.md)
-
-## Falcon V2
-
-* [👋 Introduction](falcon-v2/introduction.md)
-* [✔ Getting started](falcon-v2/getting-started.md)
-
-***
-
 * [Falcon Setup Guide:](falcon-setup-guide.md)
 * [Wallet](wallet.md)
 * [Settings And RPC Manager](settings-and-rpc-manager.md)
