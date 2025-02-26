@@ -9,9 +9,10 @@
 
 ## Task Configs
 
+* [Creating minting task](task-configs/creating-minting-task.md)
 * [Gas Limit](task-configs/gas-limit.md)
 * [Max Fee & Priority Fee](task-configs/max-fee-and-priority-fee.md)
-* [Simulate Internal](task-configs/simulate-internal.md)
+* [Simulate Interval](task-configs/simulate-interval.md)
 * [Nonce](task-configs/nonce.md)
 * [Hex](task-configs/hex.md)
 * [Timestamp to Start](task-configs/timestamp-to-start.md)

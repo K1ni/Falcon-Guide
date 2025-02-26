@@ -6,6 +6,8 @@ To start, create a group to keep your minting tasks organised, give it a name, e
 
 VIDEO CREATING A GROUP
 
+To know how to do a task configuration head over TASK CONFIGS
+
 Once your group is created you can start creating minting tasks. \
 Click on the Create + button to create tasks.
 
