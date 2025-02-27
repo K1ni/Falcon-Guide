@@ -4,6 +4,7 @@
 * [✅ Getting started](getting-started.md)
 * [Falcon Setup Guide:](falcon-setup-guide.md)
 * [Wallet](wallet.md)
+* [Disperse & Merge](disperse-and-merge.md)
 * [Settings And RPC Manager](settings-and-rpc-manager.md)
 * [Task](task.md)
 
