@@ -7,4 +7,6 @@ Upon generation, a .txt file will be created containing private keys to your new
 
 Import your own personal wallet to Falcon using the button ![](<.gitbook/assets/image (18).png>)
 
-_<mark style="color:red;">Do not forget to save your file containing all your private key in a secure manner so you do not loose access to those wallets.</mark>_
+{% hint style="info" %}
+Do not forget to save your file containing all your private key in a secure manner so you do not loose access to those wallets.
+{% endhint %}
