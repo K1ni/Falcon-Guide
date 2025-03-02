@@ -9,3 +9,7 @@ For using timestamp you will have to turn off simulate option and manually put t
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+make sure your pc timestamp is correct [https://time.is/](https://time.is/), you can snyc your pc time in windows settings
+{% endhint %}
