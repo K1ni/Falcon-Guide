@@ -1,6 +1,6 @@
 # ✅ Getting started
 
-Once you have falcon's nft in your wallet head over to [https://www.falconmint.tech/dashboard](https://www.falconmint.tech/dashboard)\
+Once you have falcon Lifetime Access NFT in your wallet head over to [<mark style="color:blue;">https://www.falconmint.tech/dashboard</mark>](https://www.falconmint.tech/dashboard)\
 \
 Connect the wallet where you hold the nft to get access to the dashboard.\
 
