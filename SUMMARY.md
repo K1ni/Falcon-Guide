@@ -3,11 +3,13 @@
 * [👋 Introduction](README.md)
 * [✅ Getting started](getting-started.md)
 * [✅ Getting started](getting-started-1.md)
-* [Falcon Setup Guide:](falcon-setup-guide.md)
-* [Wallet](wallet.md)
-* [Disperse & Merge](disperse-and-merge.md)
-* [RPC](rpc.md)
-* [Task](task.md)
+
+## Falcon Setup guide
+
+* [Wallet](falcon-setup-guide/wallet.md)
+* [Disperse & Merge](falcon-setup-guide/disperse-and-merge.md)
+* [RPC](falcon-setup-guide/rpc.md)
+* [Task](falcon-setup-guide/task.md)
 
 ## Task Configs
 
