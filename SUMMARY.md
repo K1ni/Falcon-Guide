@@ -23,3 +23,7 @@
 * [Value](task-configs/value.md)
 * [Simulate](task-configs/simulate.md)
 * [Tigger](task-configs/tigger.md)
+
+***
+
+* [Transfer NFT after minted](transfer-nft-after-minted.md)
