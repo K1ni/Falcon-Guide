@@ -9,6 +9,7 @@
 * [Wallet](falcon-setup-guide/wallet.md)
 * [Disperse & Merge](falcon-setup-guide/disperse-and-merge.md)
 * [RPC](falcon-setup-guide/rpc.md)
+* [Proxies](falcon-setup-guide/proxies.md)
 * [Task](falcon-setup-guide/task.md)
 
 ## Task Configs
@@ -22,7 +23,7 @@
 * [Timestamp to Start](task-configs/timestamp-to-start.md)
 * [Value](task-configs/value.md)
 * [Simulate](task-configs/simulate.md)
-* [Tigger](task-configs/tigger.md)
+* [Trigger](task-configs/trigger.md)
 
 ***
 
